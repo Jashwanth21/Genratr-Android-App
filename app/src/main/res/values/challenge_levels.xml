@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="challenge_levels_array">
+        <item>All</item>
+        <item>Local</item>
+        <item>Country</item>
+        <item>Global</item>
+    </string-array>
+</resources>

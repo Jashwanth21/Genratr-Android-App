@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_feed"
+        android:title="@string/menu_feed"
+        android:icon="@drawable/ic_feed" />
+    <item android:id="@+id/action_challenge"
+        android:title="@string/menu_challenge"
+        android:icon="@drawable/ic_challenge" />
+    <item android:id="@+id/action_map"
+        android:title="@string/menu_map"
+        android:icon="@drawable/ic_map" />
+    <item android:id="@+id/action_leaderboard"
+        android:title="@string/menu_leaderboard"
+        android:icon="@drawable/ic_leaderboard" />
+</menu>

@@ -1,0 +1,22 @@
+<resources>
+    <!-- Cover Colour Preference -->
+    <string-array name="colour_entries">
+    <item>Yellow</item>
+    <item>Red</item>
+    <item>Green</item>
+    <item>Blue</item>
+    <item>Pink</item>
+    <item>Purple</item>
+    <item>Black</item>
+</string-array>
+
+    <string-array name="colour_values">
+        <item>#FFC312</item>
+        <item>#EA2027</item>
+        <item>#A3CB38</item>
+        <item>#12CBC4</item>
+        <item>#FDA7DF</item>
+        <item>#9980FA</item>
+        <item>#1B1464</item>
+    </string-array>
+</resources>
